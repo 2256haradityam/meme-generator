@@ -29,8 +29,9 @@ pip install -r requirements.txt
    - Place it in server.py or set as environment variable
 
 3. Prepare Images:
-   - Place source images in PO/ directory
+   - Place source images in memegenerator/ directory
    - Use m.py to mark text areas on images
+   - images might save in some new folder ensure to copy them in PO/ folder and the json file will be generated in that same folder, ensure to copy paste it in the main folder. like in the above structure
    - Coordinates will be saved in image_data.json
 
 ## File Descriptions
