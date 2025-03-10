@@ -1,0 +1,897 @@
+{
+    "C:/Users/harad/Desktop/meme generator/PO/1.png": {
+        "boxes": [
+            {
+                "coords": [
+                    8,
+                    9,
+                    249,
+                    149
+                ],
+                "area": 33740
+            },
+            {
+                "coords": [
+                    11,
+                    201,
+                    254,
+                    355
+                ],
+                "area": 37422
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/2.png": {
+        "boxes": [
+            {
+                "coords": [
+                    12,
+                    377,
+                    540,
+                    442
+                ],
+                "area": 34320
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/3.png": {
+        "boxes": [
+            {
+                "coords": [
+                    8,
+                    17,
+                    198,
+                    272
+                ],
+                "area": 48450
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/4.png": {
+        "boxes": [
+            {
+                "coords": [
+                    14,
+                    19,
+                    540,
+                    61
+                ],
+                "area": 22092
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/5.png": {
+        "boxes": [
+            {
+                "coords": [
+                    360,
+                    0,
+                    546,
+                    335
+                ],
+                "area": 62310
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/6.png": {
+        "boxes": [
+            {
+                "coords": [
+                    10,
+                    13,
+                    147,
+                    269
+                ],
+                "area": 35072
+            },
+            {
+                "coords": [
+                    399,
+                    5,
+                    543,
+                    295
+                ],
+                "area": 41760
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/7.png": {
+        "boxes": [
+            {
+                "coords": [
+                    16,
+                    9,
+                    262,
+                    89
+                ],
+                "area": 19680
+            },
+            {
+                "coords": [
+                    315,
+                    7,
+                    548,
+                    86
+                ],
+                "area": 18407
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/8.png": {
+        "boxes": [
+            {
+                "coords": [
+                    3,
+                    11,
+                    543,
+                    59
+                ],
+                "area": 25920
+            },
+            {
+                "coords": [
+                    8,
+                    377,
+                    539,
+                    439
+                ],
+                "area": 32922
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/9.png": {
+        "boxes": [
+            {
+                "coords": [
+                    10,
+                    5,
+                    537,
+                    69
+                ],
+                "area": 33728
+            },
+            {
+                "coords": [
+                    6,
+                    374,
+                    540,
+                    441
+                ],
+                "area": 35778
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/10.png": {
+        "boxes": [
+            {
+                "coords": [
+                    9,
+                    9,
+                    175,
+                    266
+                ],
+                "area": 42662
+            },
+            {
+                "coords": [
+                    144,
+                    352,
+                    538,
+                    441
+                ],
+                "area": 35066
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/11.png": {
+        "boxes": [
+            {
+                "coords": [
+                    12,
+                    7,
+                    537,
+                    77
+                ],
+                "area": 36750
+            },
+            {
+                "coords": [
+                    21,
+                    385,
+                    539,
+                    437
+                ],
+                "area": 26936
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/12.png": {
+        "boxes": [
+            {
+                "coords": [
+                    8,
+                    11,
+                    540,
+                    57
+                ],
+                "area": 24472
+            },
+            {
+                "coords": [
+                    9,
+                    381,
+                    542,
+                    440
+                ],
+                "area": 31447
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/13.png": {
+        "boxes": [
+            {
+                "coords": [
+                    7,
+                    9,
+                    277,
+                    124
+                ],
+                "area": 31050
+            },
+            {
+                "coords": [
+                    157,
+                    375,
+                    543,
+                    440
+                ],
+                "area": 25090
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/14.png": {
+        "boxes": [
+            {
+                "coords": [
+                    12,
+                    11,
+                    540,
+                    91
+                ],
+                "area": 42240
+            },
+            {
+                "coords": [
+                    347,
+                    106,
+                    539,
+                    435
+                ],
+                "area": 63168
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/15.png": {
+        "boxes": [
+            {
+                "coords": [
+                    15,
+                    349,
+                    545,
+                    443
+                ],
+                "area": 49820
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/16.png": {
+        "boxes": [
+            {
+                "coords": [
+                    380,
+                    9,
+                    538,
+                    442
+                ],
+                "area": 68414
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/17.png": {
+        "boxes": [
+            {
+                "coords": [
+                    10,
+                    332,
+                    535,
+                    441
+                ],
+                "area": 57225
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/18.png": {
+        "boxes": [
+            {
+                "coords": [
+                    0,
+                    354,
+                    540,
+                    439
+                ],
+                "area": 45900
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/19.png": {
+        "boxes": [
+            {
+                "coords": [
+                    13,
+                    7,
+                    538,
+                    149
+                ],
+                "area": 74550
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/20.png": {
+        "boxes": [
+            {
+                "coords": [
+                    3,
+                    7,
+                    544,
+                    86
+                ],
+                "area": 42739
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/21.png": {
+        "boxes": [
+            {
+                "coords": [
+                    13,
+                    370,
+                    537,
+                    441
+                ],
+                "area": 37204
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/22.png": {
+        "boxes": [
+            {
+                "coords": [
+                    7,
+                    324,
+                    535,
+                    445
+                ],
+                "area": 63888
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/23.png": {
+        "boxes": [
+            {
+                "coords": [
+                    56,
+                    18,
+                    542,
+                    76
+                ],
+                "area": 28188
+            },
+            {
+                "coords": [
+                    9,
+                    369,
+                    541,
+                    441
+                ],
+                "area": 38304
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/24.png": {
+        "boxes": [
+            {
+                "coords": [
+                    386,
+                    9,
+                    538,
+                    323
+                ],
+                "area": 47728
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/25.png": {
+        "boxes": [
+            {
+                "coords": [
+                    5,
+                    9,
+                    150,
+                    288
+                ],
+                "area": 40455
+            },
+            {
+                "coords": [
+                    398,
+                    9,
+                    542,
+                    309
+                ],
+                "area": 43200
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/26.png": {
+        "boxes": [
+            {
+                "coords": [
+                    8,
+                    7,
+                    542,
+                    53
+                ],
+                "area": 24564
+            },
+            {
+                "coords": [
+                    8,
+                    324,
+                    180,
+                    444
+                ],
+                "area": 20640
+            },
+            {
+                "coords": [
+                    385,
+                    308,
+                    543,
+                    442
+                ],
+                "area": 21172
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/27.png": {
+        "boxes": [
+            {
+                "coords": [
+                    5,
+                    5,
+                    178,
+                    227
+                ],
+                "area": 38406
+            },
+            {
+                "coords": [
+                    385,
+                    5,
+                    543,
+                    238
+                ],
+                "area": 36814
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/28.png": {
+        "boxes": [
+            {
+                "coords": [
+                    10,
+                    9,
+                    114,
+                    265
+                ],
+                "area": 26624
+            },
+            {
+                "coords": [
+                    10,
+                    397,
+                    533,
+                    442
+                ],
+                "area": 23535
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/29.png": {
+        "boxes": [
+            {
+                "coords": [
+                    186,
+                    356,
+                    546,
+                    443
+                ],
+                "area": 31320
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/30.png": {
+        "boxes": [
+            {
+                "coords": [
+                    10,
+                    25,
+                    163,
+                    270
+                ],
+                "area": 37485
+            },
+            {
+                "coords": [
+                    419,
+                    25,
+                    547,
+                    230
+                ],
+                "area": 26240
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/31.png": {
+        "boxes": [
+            {
+                "coords": [
+                    250,
+                    6,
+                    428,
+                    205
+                ],
+                "area": 35422
+            },
+            {
+                "coords": [
+                    408,
+                    229,
+                    537,
+                    429
+                ],
+                "area": 25800
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/32.png": {
+        "boxes": [
+            {
+                "coords": [
+                    9,
+                    8,
+                    540,
+                    67
+                ],
+                "area": 31329
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/33.png": {
+        "boxes": [
+            {
+                "coords": [
+                    5,
+                    8,
+                    187,
+                    203
+                ],
+                "area": 35490
+            },
+            {
+                "coords": [
+                    365,
+                    8,
+                    537,
+                    203
+                ],
+                "area": 33540
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/34.png": {
+        "boxes": [
+            {
+                "coords": [
+                    8,
+                    10,
+                    541,
+                    56
+                ],
+                "area": 24518
+            },
+            {
+                "coords": [
+                    17,
+                    386,
+                    544,
+                    439
+                ],
+                "area": 27931
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/35.png": {
+        "boxes": [
+            {
+                "coords": [
+                    11,
+                    399,
+                    532,
+                    442
+                ],
+                "area": 22403
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/36.png": {
+        "boxes": [
+            {
+                "coords": [
+                    12,
+                    8,
+                    540,
+                    57
+                ],
+                "area": 25872
+            },
+            {
+                "coords": [
+                    12,
+                    387,
+                    540,
+                    440
+                ],
+                "area": 27984
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/37.png": {
+        "boxes": [
+            {
+                "coords": [
+                    24,
+                    11,
+                    523,
+                    89
+                ],
+                "area": 38922
+            },
+            {
+                "coords": [
+                    18,
+                    112,
+                    148,
+                    321
+                ],
+                "area": 27170
+            },
+            {
+                "coords": [
+                    388,
+                    119,
+                    539,
+                    315
+                ],
+                "area": 29596
+            },
+            {
+                "coords": [
+                    14,
+                    359,
+                    545,
+                    438
+                ],
+                "area": 41949
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/38.png": {
+        "boxes": [
+            {
+                "coords": [
+                    295,
+                    18,
+                    544,
+                    176
+                ],
+                "area": 39342
+            },
+            {
+                "coords": [
+                    300,
+                    200,
+                    545,
+                    339
+                ],
+                "area": 34055
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/39.png": {
+        "boxes": [
+            {
+                "coords": [
+                    15,
+                    6,
+                    536,
+                    54
+                ],
+                "area": 25008
+            },
+            {
+                "coords": [
+                    12,
+                    390,
+                    540,
+                    442
+                ],
+                "area": 27456
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/40.png": {
+        "boxes": [
+            {
+                "coords": [
+                    320,
+                    15,
+                    543,
+                    141
+                ],
+                "area": 28098
+            },
+            {
+                "coords": [
+                    319,
+                    346,
+                    545,
+                    440
+                ],
+                "area": 21244
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/41.png": {
+        "boxes": [
+            {
+                "coords": [
+                    134,
+                    2,
+                    325,
+                    154
+                ],
+                "area": 29032
+            },
+            {
+                "coords": [
+                    6,
+                    386,
+                    545,
+                    438
+                ],
+                "area": 28028
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/42.png": {
+        "boxes": [
+            {
+                "coords": [
+                    292,
+                    16,
+                    481,
+                    153
+                ],
+                "area": 25893
+            },
+            {
+                "coords": [
+                    8,
+                    398,
+                    512,
+                    443
+                ],
+                "area": 22680
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/43.png": {
+        "boxes": [
+            {
+                "coords": [
+                    112,
+                    6,
+                    541,
+                    59
+                ],
+                "area": 22737
+            },
+            {
+                "coords": [
+                    81,
+                    94,
+                    245,
+                    220
+                ],
+                "area": 20664
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/44.png": {
+        "boxes": [
+            {
+                "coords": [
+                    1,
+                    3,
+                    273,
+                    89
+                ],
+                "area": 23392
+            },
+            {
+                "coords": [
+                    240,
+                    302,
+                    544,
+                    439
+                ],
+                "area": 41648
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/45.png": {
+        "boxes": [
+            {
+                "coords": [
+                    16,
+                    15,
+                    402,
+                    156
+                ],
+                "area": 54426
+            },
+            {
+                "coords": [
+                    13,
+                    178,
+                    189,
+                    318
+                ],
+                "area": 24640
+            }
+        ]
+    },
+    "C:/Users/harad/Desktop/meme generator/PO/46.png": {
+        "boxes": [
+            {
+                "coords": [
+                    161,
+                    5,
+                    542,
+                    87
+                ],
+                "area": 31242
+            },
+            {
+                "coords": [
+                    14,
+                    370,
+                    544,
+                    439
+                ],
+                "area": 36570
+            }
+        ]
+    }
+}

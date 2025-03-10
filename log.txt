@@ -1,0 +1,13 @@
+
+
+Timestamp: 2025-03-10 11:41:22.865786
+Image: 16.png
+User Prompt: When you try to fix one bug and create three more
+Gemini Response: {"0": "Debugging: \nOne step forward,\nthree steps back."}
+--------------------------------------------------------------------------------
+
+Timestamp: 2025-03-10 11:42:22.917030
+Image: 14.png
+User Prompt: Bugs : when you try to fix one of my part three more of them appears
+Gemini Response: {"0": "Trying to fix one bug...", "1": "...summons three more."}
+--------------------------------------------------------------------------------
