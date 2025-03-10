@@ -6,16 +6,16 @@ A web-based meme generator that uses Google's Gemini AI to create dynamic text f
 
 ```
 meme generator/
-├── PO/                 # Source images for memes
-├── output/            # Generated memes output
+├── memegenerator/    # Source images for m.py 
+├── PO/               # Source images for memes
+├── output/           # Generated memes output
 ├── c.py              # Core meme generation logic
 ├── m.py              # GUI tool for marking text areas
 ├── server.py         # Flask web server
 ├── index2.html       # Web interface
 ├── image_data.json   # Text box coordinates data
 ├── requirements.txt  # Project dependencies
-└── log.txt          # AI response logs
-```
+└── log.txt           # AI response logs
 
 ## Setup Instructions
 
